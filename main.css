@@ -13,7 +13,21 @@ h3 {
 h4 {
     color: #474493;
 }
-body{
-    font-family: "Courier New", Courier, monospace;
+body {
+font-family: "Courier New", Courier, monospace;
 background-color: #00fe00;
+}
+
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #426493;
+}
+
+#content {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
 }
